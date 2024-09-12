@@ -1,0 +1,12 @@
+Doctor: Dr. Smith, Specialization: Cardiologist, Patient: Lina, Date: 2024-09-15
+Doctor: Dr.Ahona, Specialization: Anesthesiology., Patient: Tina, Date: 2024-09-16
+Doctor: Dr. Smith, Specialization: Cardiologist, Patient: mina, Date: 2024-09-17
+Doctor: Dr.Ahona, Specialization: Anesthesiology., Patient: Tamim, Date: 2024-09-18
+Doctor: Dr. Smith, Specialization: Cardiologist, Patient: Lina, Date: 2024-09-15
+Doctor: Dr.Ahona, Specialization: Anesthesiology., Patient: Tina, Date: 2024-09-16
+Doctor: Dr. Smith, Specialization: Cardiologist, Patient: mina, Date: 2024-09-17
+Doctor: Dr.Ahona, Specialization: Anesthesiology., Patient: Tamim, Date: 2024-09-18
+Doctor: Dr. Smith, Specialization: Cardiologist, Patient: Lina, Date: 2024-09-15
+Doctor: Dr.Ahona, Specialization: Anesthesiology., Patient: Tina, Date: 2024-09-16
+Doctor: Dr. Smith, Specialization: Cardiologist, Patient: mina, Date: 2024-09-17
+Doctor: Dr.Ahona, Specialization: Anesthesiology., Patient: Tamim, Date: 2024-09-18
